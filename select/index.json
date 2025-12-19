@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "to the beginning",
+  "base_artist": "Kalafina",
+  "createdAt": "2025-12-19T05:11:27.612882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back to the Beginning",
+      "artist": "Imagika",
+      "has_synced": false,
+      "path": "select/01_Back_to_the_Beginning_Imagika.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "to the beginning",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/02_to_the_beginning_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "to the beginning",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/03_to_the_beginning_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back to the Beginning",
+      "artist": "Bill Bruford",
+      "has_synced": false,
+      "path": "select/04_Back_to_the_Beginning_Bill_Bruford.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Right Back to the Beginning",
+      "artist": "ṣoftheart",
+      "has_synced": true,
+      "path": "select/05_Right_Back_to_the_Beginning_ṣoftheart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "to the beginning",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/06_to_the_beginning_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back to the Beginning",
+      "artist": "Dara Maclean feat. Brandin Read",
+      "has_synced": false,
+      "path": "select/07_Back_to_the_Beginning_Dara_Maclean_feat._Brandin_Read.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back To the Beginning",
+      "artist": "빈센트",
+      "has_synced": false,
+      "path": "select/08_Back_To_the_Beginning_빈센트.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back to the Beginning Again",
+      "artist": "Switchfoot",
+      "has_synced": false,
+      "path": "select/09_Back_to_the_Beginning_Again_Switchfoot.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "To the Beginning (Live)",
+      "artist": "Kalafina",
+      "has_synced": false,
+      "path": "select/10_To_the_Beginning_(Live)_Kalafina.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "to the beginning",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/11_to_the_beginning_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "To the Beginning",
+      "artist": "The Workday Release",
+      "has_synced": false,
+      "path": "select/12_To_the_Beginning_The_Workday_Release.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back to the Beginning",
+      "artist": "Dara Maclean & Brandin Reed",
+      "has_synced": false,
+      "path": "select/13_Back_to_the_Beginning_Dara_Maclean_&_Brandin_Reed.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "to the beginning",
+      "artist": "Kalafina",
+      "has_synced": false,
+      "path": "select/pl_01_to_the_beginning_Kalafina.txt"
+    }
+  ]
+}
